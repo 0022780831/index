@@ -1,0 +1,4 @@
+if (i<10)
+print yes;
+else if (i>10)
+printt no;
